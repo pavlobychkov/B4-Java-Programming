@@ -1,3 +1,5 @@
+package day06_b_unary_operators.day06_a_arithmetic_operators;
+
 public class FloatingNumbers {
 
     public static void main (String [] args){

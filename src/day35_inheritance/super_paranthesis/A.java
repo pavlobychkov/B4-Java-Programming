@@ -9,4 +9,8 @@ public class A {
     public A (double d) {
 
     }
+
+    public void apply(int i) {
+
+    }
 }
